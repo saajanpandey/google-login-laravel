@@ -1,4 +1,4 @@
-Setup Guide :
+Markup: *Setup Guide :
 
 *Clone the project from the repository.
 *Install the composer in the project directory. (composer install)
