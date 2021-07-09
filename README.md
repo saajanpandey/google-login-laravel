@@ -6,3 +6,4 @@ Setup Guide :
 -Insert the Google ID and Google Secret key from https://console.cloud.google.com/ in the .env file
 -Copy the callback from config/services.php
 -Now php artisan serve your project.
+
